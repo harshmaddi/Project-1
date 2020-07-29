@@ -1,0 +1,9 @@
+{
+  "name": "Playlisted",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "13c5cd46"
+}
